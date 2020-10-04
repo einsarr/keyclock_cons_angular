@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f41a43fa-1713-419d-85da-86b809a4f25e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1iPOH5yyeJM30rYZD6Ka4uRHeu9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EcomAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="project_keyclock" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ecom.ecomapp.EcomAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41a43fa-1713-419d-85da-86b809a4f25e" name="Default Changelist" comment="" />
+      <created>1601805669436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601805669436</updated>
+      <workItem from="1601805838194" duration="664000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="98" key="FileChooserDialogImpl" timestamp="1601806501324">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="463" y="98" key="FileChooserDialogImpl/0.0.1366.687@0.0.1366.687" timestamp="1601806501324" />
+    <state x="65" y="4" key="new project wizard" timestamp="1601806505120">
+      <screen x="0" y="0" width="1366" height="687" />
+    </state>
+    <state x="65" y="4" key="new project wizard/0.0.1366.687@0.0.1366.687" timestamp="1601806505120" />
+  </component>
+</project>
