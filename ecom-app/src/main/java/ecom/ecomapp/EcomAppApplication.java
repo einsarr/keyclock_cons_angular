@@ -145,6 +145,7 @@ class SecurityController{
         HttpFacade facade = new SimpleHttpFacade(request, httpServletResponse);
         KeycloakDeployment deployment = adapterDeploymentContext.resolveDeployment(facade);
         attributes.addAttribute("referrer",deployment.getResourceName());
+        attributes.addAttribute("referrer_uri",request.getHeader("referer"));
         return "redirect:"+deployment.getAccountUrl()+"/password";
     }
 }

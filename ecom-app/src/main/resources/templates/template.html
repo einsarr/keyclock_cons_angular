@@ -16,20 +16,20 @@ xmlns:sec="https://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
             <a class="navbar-brand" href="#">AppKeyclock</a>
         </div>
         <ul class="nav navbar-nav">
-            <li class="active"><a href="/products">Products</a></li>
-            <li class="active"><a href="/suppliers">Suppliers</a></li>
+            <li><a href="/products">Products</a></li>
+            <li sec:authorize="hasAuthority('app-manager')"><a href="/suppliers">Suppliers</a></li>
         </ul>
         <ul  class="nav navbar-nav navbar-right">
 
-            <form class="dropdown-item" action="/sso/logout" id="logout-form" style="display: none" method="post">
-                <input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}"/>
-            </form>
+<!--            <form class="dropdown-item" action="/sso/logout" id="logout-form" style="display: none" method="post">-->
+<!--                <input type="hidden" th:name="${_csrf.parameterName}" th:value="${_csrf.token}"/>-->
+<!--            </form>-->
             <li class="dropdown ml-auto" sec:authorize="isAuthenticated()">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                 <span sec:authentication="name"></span>
                     <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                    <li><a href="#" class="dropdown-item" onclick="document.getElementById('logout-form')">Logout</a></li>
+<!--                    <li><a href="#" class="dropdown-item" onclick="document.getElementById('logout-form')">Logout</a></li>-->
                     <li><a href="/changePassword">Change password</a></li>
                     <li><a href="/logout">logout</a></li>
                 </ul>

@@ -1,22 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f41a43fa-1713-419d-85da-86b809a4f25e" name="Default Changelist" comment="" />
+    <list default="true" id="f41a43fa-1713-419d-85da-86b809a4f25e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/.browserslistrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/e2e/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AngularWebAPP/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keycloak/standalone/log/server.log.2020-10-04" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keycloak/standalone/configuration/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/keycloak/standalone/configuration/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keycloak/standalone/data/keycloak.lock.db" beforeDir="false" afterPath="$PROJECT_DIR$/keycloak/standalone/data/keycloak.lock.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keycloak/standalone/data/keycloak.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/keycloak/standalone/data/keycloak.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keycloak/standalone/log/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/keycloak/standalone/log/server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keycloak/standalone/tmp/startup-marker" beforeDir="false" afterPath="$PROJECT_DIR$/keycloak/standalone/tmp/startup-marker" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iPOH5yyeJM30rYZD6Ka4uRHeu9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AngularWebAPP" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="EcomAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -27,6 +94,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -38,17 +106,36 @@
       <option name="presentableId" value="Default" />
       <updated>1601805669436</updated>
       <workItem from="1601805838194" duration="664000" />
+      <workItem from="1601843305242" duration="1651000" />
+      <workItem from="1601850085913" duration="36000" />
+      <workItem from="1601851694929" duration="525000" />
+      <workItem from="1601911168009" duration="753000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="98" key="FileChooserDialogImpl" timestamp="1601806501324">
+    <state x="463" y="98" key="FileChooserDialogImpl" timestamp="1601912405195">
       <screen x="0" y="0" width="1366" height="687" />
     </state>
-    <state x="463" y="98" key="FileChooserDialogImpl/0.0.1366.687@0.0.1366.687" timestamp="1601806501324" />
+    <state x="463" y="98" key="FileChooserDialogImpl/0.0.1366.687@0.0.1366.687" timestamp="1601912405195" />
     <state x="65" y="4" key="new project wizard" timestamp="1601806505120">
       <screen x="0" y="0" width="1366" height="687" />
     </state>
